@@ -1,18 +1,16 @@
+h2{ background-color: aquamarine;
+    padding: 6px 35% ;
+    align-items: center;
+ }
 body{
     margin: 0;
     height: 100vh;
-    display: flex;
     align-items: center;
     justify-content: center;
     background: #000;
     overflow: hidden;
 }
-nav{
-    background-color: aquamarine;
-} 
-h2{ 
-   padding: 6px 60px ;
-}
+
 .container{
     font-size: 10px;
     width: 40em;
